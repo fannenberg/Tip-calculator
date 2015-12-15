@@ -42,13 +42,11 @@ class ViewController: UIViewController {
         
     }
     
-    @IBAction func onTap(sender: AnyObject) {
-        view.endEditing(true)
-        
-    }
+    
     
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
+        billField.becomeFirstResponder()
         let defaults = NSUserDefaults.standardUserDefaults()
         let defaultTip = defaults.integerForKey("defaultTip")
         print("default tip: \(defaultTip)") // Check if default tip updated
