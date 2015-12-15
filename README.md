@@ -1,19 +1,19 @@
 # Tip-calculator
 Pre-work for CodePath
-# Pre-work - *Tips*
+# Pre-work - Tips
 
 Tips is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Maria F. Caceres
 
-Time spent: **X** hours spent in total
+Time spent: 5-6 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
 * [ ] UI animations
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Improve interface
 
 ## Video Walkthrough 
 
@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2015] [Maria F. Caceres]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
